@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-hi",
+  "description": "The most comprehensive collection of stopwords for the hindi language.",
+  "keywords": [
+    "hindi",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-hi",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-hi.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
